@@ -3,7 +3,8 @@ import Header from './components/Header.jsx'
 function App() {
   return (
     <>
-      <Header/>
+      <Header />
+      <h1>Fundacion Logros</h1>
     </>
   )
 }
